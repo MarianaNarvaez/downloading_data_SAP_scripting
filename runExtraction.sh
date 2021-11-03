@@ -1,0 +1,1 @@
+'C:\\Users\\myuser\\.conda\\envs\mande\\python.exe' 'D:\\Files\\ME\\MandE\\me_main.py'
