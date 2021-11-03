@@ -1,3 +1,3 @@
 # Downloading_data_SAP_scripting
 
-Download data from some SAP transactions with python scripting
+Downloading data from some SAP transactions using python scripting
